@@ -1,2 +1,2 @@
-# Nike-Shoe-Demo
-HTML, CSS &amp; JS Static webpage
+# Nike-Shoes-Demo
+React & Tailwind Website
